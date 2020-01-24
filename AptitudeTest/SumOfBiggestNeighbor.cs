@@ -7,6 +7,7 @@ namespace AptitudeTest
 {
     public class Solution
     {
+        //time compexity is O(n)
         public int Challenge(int[] input)
         {
             if (input.Length == 2)
